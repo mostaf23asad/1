@@ -1,0 +1,6 @@
+{
+  "name": "منصة المعلم والطالب للتقييم والتسجيل الصوتي",
+  "description": "منصة متصلة بين المعلم والطالب: تقييم الحصص، إرسال تسجيلات المعلم، وتكليف واستلام الواجبات الصوتية مع مزامنة فورية.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
